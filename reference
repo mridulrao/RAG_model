@@ -1,0 +1,21 @@
+Resources - 
+Model Zoo - https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md
+Llava Quantized - https://github.com/haotian-liu/LLaVA?tab=readme-ov-file#launch-a-model-worker-4-bit-8-bit-inference-quantized
+Llava Builder - https://github.com/haotian-liu/LLaVA/blob/main/llava/model/builder.py
+Llava Paper - https://llava-vl.github.io/
+Sample - https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain/blob/master/llava.ipynb
+
+Qdrant Vector store - https://docs.llamaindex.ai/en/stable/api_reference/storage/vector_store/qdrant/
+Llama documents - https://docs.llamaindex.ai/en/stable/module_guides/loading/documents_and_nodes/
+Vector store index - https://docs.llamaindex.ai/en/stable/module_guides/indexing/vector_store_index/
+Vector store - https://docs.llamaindex.ai/en/stable/examples/vector_stores/QdrantIndexDemo/
+
+Qdrant fastembedding - https://docs.llamaindex.ai/en/stable/examples/embeddings/fastembed/
+Ollama for linux - https://ollama.com/download/linux
+Ollama instruction for llamaindex - https://docs.llamaindex.ai/en/stable/api_reference/llms/ollama/
+Explanation for qdrant - https://qdrant.tech/documentation/tutorials/neural-search/
+
+Akshay's tweet - https://lightning.ai/lightning-ai/studios/self-hosted-rag-app-using-cohere-s-r?utm_source=akshay
+
+Things to improve on 
+Reranker 
